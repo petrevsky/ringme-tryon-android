@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MenuScene.unity
+    guid: 83048bcae55ccaa498a63bd72d71a28a
+  - enabled: 1
+    path: Assets/RingScene.unity
+    guid: ae36f13e49d803941874b49d4066e5ac
+  - enabled: 1
+    path: Assets/Ring2scene.unity
+    guid: acfaf523310355d438f3789ce49b3ca0
+  - enabled: 1
+    path: Assets/ring3scene.unity
+    guid: 9c47990433f2a1940b297136697649e5
+  - enabled: 1
+    path: Assets/SwipeMenuScene.unity
+    guid: 362b2cf8ff254ef4d8a8bed72bd3ab88
+  - enabled: 1
+    path: Assets/HelpScene.unity
+    guid: 42ec9bf4a616d2442bed2b9d58df46df
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1ae87b39209316e478e11b7a113a92ab,
+      type: 2}

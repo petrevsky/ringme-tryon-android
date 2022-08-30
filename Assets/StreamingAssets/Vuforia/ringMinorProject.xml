@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="arzaraQRcode" size="0.010000 0.010000" />
+    <ImageTarget name="qrTarget2" size="0.010000 0.010000" />
+    <ImageTarget name="qrTypeTarget" size="0.010000 0.010000" />
+    <ImageTarget name="ringPlainTarget" size="0.020000 0.026694" />
+    <CylinderTarget name="ringTarget" sideLength="0.020000"/>
+  </Tracking>
+</QCARConfig>
