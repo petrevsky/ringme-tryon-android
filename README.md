@@ -5,6 +5,6 @@ Minimum Android Version: Android 8.1
 
 [![IMAGE ALT TEXT](https://yt-embed.herokuapp.com/embed?v=_0lANMINNcI)](https://www.youtube.com/watch?v=_0lANMINNcI "RingMe - AR app overview")
 
-Released as open sourc
+Released as open source.
 
 To use this app please download the APK from the released packages.
